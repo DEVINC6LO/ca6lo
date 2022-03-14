@@ -13,6 +13,8 @@ const {
   deleteTicTacToe,
   isGameActive,
   genButtons,
+  fontType,
+  textToStylist,
 } = require("../Utilis/Misc")
 const Language = require("../language")
 const { forwardOrBroadCast } = require("../Utilis/groupmute")
